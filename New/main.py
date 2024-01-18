@@ -6,7 +6,7 @@ import cv2
 directory_to_search = 'Photos'
 
 
-def display_images(image1, image2):
+def display_and_save_images(image1, image2):
     img1 = cv2.imread(image1)
     img2 = cv2.imread(image2)
 
@@ -22,6 +22,10 @@ def display_images(image1, image2):
     cv2.imshow('Comparison View', concatenated_img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+
+    # Save the concatenated image
+    cv2.imwrite("Input.jpg", concatenated_img)
+    print(f"Concatenated image saved as '{save_path}'")
 
 
 
@@ -39,6 +43,6 @@ while True:
 
            Face_Detector.detect_save_face(camera_photo_path, False)
            Face_Detector.detect_save_face(comparison_photo_path, True)
-           display_images("best_face_voice.png", "best_face_camera.png")
+           display_and_save_images("best_face_voice.png", "best_face_camera.png")
 
 
