@@ -18,7 +18,6 @@ def recognize_speech():
             print("Rozpoznawanie...")
             text = recognizer.recognize_google(audio, language="pl-PL")
             print("Rozpoznano: {}".format(text))
-            text = text.replace(" ", "")
             return text
         except sr.UnknownValueError:
             print("Nie rozpoznano mowy")
@@ -54,9 +53,8 @@ def display_image(image_path):
     except Exception as e:
         print(f"Error displaying image: {e}")
 
-def get_photo_speech(directory_to_search):
-    user_input = recognize_speech()
-    result = find_similar_files(directory_to_search, user_input)
+def get_photo_speech(text, directory_to_search):
+    result = find_similar_files(directory_to_search, text)
     return result
 
 
