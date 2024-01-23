@@ -16,6 +16,10 @@ def recognize_speech():
 
         try:
             print("Rozpoznawanie...")
+            #text = "Adam Jankowiak"
+            #print("Rozpoznano: {}".format(text))
+            #return text
+            # TUTAJ
             text = recognizer.recognize_google(audio, language="pl-PL")
             print("Rozpoznano: {}".format(text))
             return text

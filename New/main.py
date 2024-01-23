@@ -29,8 +29,8 @@ def display_and_save_images(image1, image2):
 
 
 
-
 cap = cv2.VideoCapture(0)
+#cap = cv2.VideoCapture(-1, cv2.CAP_V4L2)
 while True:
     ret, frame = cap.read()
     if ret:

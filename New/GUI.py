@@ -7,6 +7,8 @@ import cv2
 import Camera
 import Voice
 import Face_Detector
+import Face_Recognaction
+
 global cam
 global frame
 
@@ -60,6 +62,36 @@ def button_take_voice_callback():
     check_checkboxes()
 
 def button_display_comparison_callback():
+
+
+    print("Wszystko czego dzis chce!")
+
+
+    image1 = "best_face_voice.png"
+    image2 = "best_face_camera.png"
+    img1 = cv2.imread(image1, cv2.IMREAD_GRAYSCALE)
+    img2 = cv2.imread(image2, cv2.IMREAD_GRAYSCALE)
+
+    dim = (64, 64)
+
+    img1 = cv2.resize(img1, dim)
+    img2 = cv2.resize(img2, dim)
+
+    #Sprawdznie podobienstwa
+    pred = Face_Recognaction.face_recognaction(img1, img2, True)
+
+    if pred[0] == 1:
+        print('Ta sama osoba')
+    else:
+        print('Rozne osoby')
+
+    print(pred[0])
+    print(pred[1])
+
+
+
+
+    '''
     image1 = "best_face_voice.png"
     image2 = "best_face_camera.png"
     img1 = cv2.imread(image1)
@@ -74,6 +106,8 @@ def button_display_comparison_callback():
     cv2.imshow('Comparison View', concatenated_img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+    '''
+
 
 
 frame_1 = customtkinter.CTkFrame(master=app)
