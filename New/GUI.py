@@ -63,10 +63,6 @@ def button_take_voice_callback():
 
 def button_display_comparison_callback():
 
-
-    print("Wszystko czego dzis chce!")
-
-
     image1 = "best_face_voice.png"
     image2 = "best_face_camera.png"
     img1 = cv2.imread(image1, cv2.IMREAD_GRAYSCALE)
@@ -82,8 +78,13 @@ def button_display_comparison_callback():
 
     if pred[0] == 1:
         print('Ta sama osoba')
+        transcripted_text_2.configure(text='Ta sama osoba')
     else:
+        transcripted_text_2.configure(text='Rozne osoby')
         print('Rozne osoby')
+
+    label_2.configure(text='Podobieństwo: '+"%.2f" % pred[1])
+
 
     print(pred[0])
     print(pred[1])
@@ -160,6 +161,18 @@ transcripted_text = customtkinter.CTkLabel(master=frame_3,
                                            fg_color=("white", "gray38"),
                                            )
 transcripted_text.pack(pady=10, padx=0, side="top", fill="x", expand=False)
+
+
+label_2 = customtkinter.CTkLabel(master=frame_3, text="Podobieństwo: ")
+label_2.pack(pady=12, padx=10, side="top")
+
+transcripted_text_2 = customtkinter.CTkLabel(master=frame_3,
+                                           text="",
+                                           corner_radius=6,
+                                           fg_color=("white", "gray38"),
+                                           )
+transcripted_text_2.pack(pady=10, padx=0, side="top", fill="x", expand=False)
+
 
 
 
