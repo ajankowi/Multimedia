@@ -1,0 +1,269 @@
+Patenty są udzielane na wynalazki, które są:	nowe,
+posiadają poziom wynalazczy = nie wynikają w sposób oczywisty ze stanu techniki, 
+nadają się do przemysłowego stosowania
+
+Kryterium nowości	nie jest częścią stanu techniki (również informacje nieudostępnione powszechnie),
+możliwa ochrona dla wykorzystania substancji lub mieszanin (stanowiących część techniki) w sposobach leczenia lub diagnostyki (nie stanowiących części techniki),
+możliwa ochrona, jeśli nastąpiło ujawnienie spowodowane oczywistym nadużyciem w stosunku do zgłaszającego (i maksymalnie 6 miesięcy przed dokonaniem zgłoszenia)
+
+Przedmioty wynalazków	wytwór
+sposób
+sposób + wytwór
+
+Za wynalazki nie uważa się w szczególności:	wytworów o charakterze jedynie estetycznym,
+wytworów, których niemożliwość wykorzystania może być wykazana w świetle powszechnie przyjętych i uznanych zasad nauki,
+których wykorzystanie nie przyniesie rezultatu spodziewanego przez zgłaszającego - w świetle powszechnie przyjętych i uznanych zasad nauki,
+programów do maszyn cyfrowych
+
+Patentów nie udziela się na:	wynalazki, których wykorzystywanie byłoby sprzeczne z porządkiem publicznym lub dobrymi obyczajami;
+odmiany roślin lub rasy zwierząt oraz czysto biologiczne sposoby hodowli;
+sposoby leczenia oraz sposoby diagnostyki
+
+Patent dodatkowy	Uprawniony z patentu może uzyskać patent na ulepszenie lub uzupełnienie wynalazku, które posiada cechy wynalazku, a nie może być stosowane samoistnie
+
+Zbywalne i dziedziczone	prawo do uzyskania patentu na wynalazek
+majątkowe prawa autorskie
+prawo ochronne na znak towarowy
+
+Niezbywalne i niedziedziczone	autorskie prawa osobiste
+
+Wynagrodzenie za przekazanie prawa do patentu/prawa do korzystania z wynalazku przedsiębiorcy	w słusznej proporcji do korzyści przedsiębiorcy z wynalazku z uwzględnieniem okoliczności, w jakich wynalazek, został dokonany, a w szczególności zakresu udzielonej twórcy pomocy
+
+Zgłoszenie wynalazku - podanie	oznaczenie zgłaszającego,
+określenie przedmiotu zgłoszenia,
+wniosek o udzielenie patentu lub patentu dodatkowego
+
+Zgłoszenie wynalazku - elementy	podanie,
+opis wynalazku ujawniający jego istotę,
+zastrzeżenie lub zastrzeżenia patentowe,
+skrót opisu,
+rysunki, jeżeli są one niezbędne do zrozumienia wynalazku,
+jeżeli zgłaszający nie jest twórcą wynalazku, powinien w podaniu wskazać twórcę i podstawę swego prawa do uzyskania patentu,
+zgłoszenie wynalazku może obejmować jeden lub więcej wynalazków połączonych ze sobą jeśli spełniają wymóg jednolitości
+
+Zastrzeżenie patentowe	Jedno zdanie lub równoważnik zdania. 
+Określają zastrzegany wynalazek i zawarty w nim wkład techniczny w sposób zwięzły i jednoznaczny, przez podanie cech technicznych odnoszących się do jego budowy lub składu wytworu.
+
+Zgłoszenie wynalazku	1. Numer, data wpływu, zawiadomienie zgłaszającego
+2. Postanowienie wzywające zgłaszającego do uzupełnienia zgłoszenia lub usunięcia wskazanych braków i usterek
+3. Jeżeli zgłoszenie zostało dokonane z naruszeniem przepisu o jednolitości wynalazku, Urząd Patentowy wzywa zgłaszającego do złożenia oddzielnych zgłoszeń. Zgłoszenie pierwotne dotyczy wynalazku określonego na pierwszym miejscu
+4. Urząd Patentowy dokonuje ogłoszenia o zgłoszeniu wynalazku niezwłocznie po upływie 18 miesięcy od daty pierwszeństwa do uzyskania patentu. Brak ogłoszenia jeżeli odmowa/umorzenie/wynalazek tajny.
+5. Od dnia ogłoszenia o zgłoszeniu wynalazku osoby trzecie mogą zapoznać się z opisem zgłoszeniowym.
+6. W toku badania zgłoszenia Urząd może zasięgać opinii.
+7. Urząd może wezwać zgłaszającego do nadesłania dokumentów i wyjaśnień oraz do wprowadzenia poprawek.
+8. Urząd sporządza dla każdego ogłoszenia sprawozdanie o stanie techniki z wykazem publikacji.
+9. Urząd może sporządzić wstępną ocenę dotyczącą nowości wynalazku, poziomu wynalazczego lub wymogu jednolitości, musi przekazać ją zgłaszającemu.
+10. Jeżeli nie zostały spełnione warunki wymagane do uzyskania patentu lub wynalazek nie został ujawniony w sposób wystarczający - odmowa udzielenia patentu.
+11. Przed wydaniem decyzji, Urząd wyznacza zgłaszającemu termin do zajęcia stanowiska co do zebranych dowodów i materiałów.
+12. Urząd wydaje decyzję o udzieleniu patentu, jeżeli zostały spełnione warunki do jego uzyskania. Udzielenie patentu następuje pod warunkiem opłaty za pierwszy okres ochrony.
+13. Udzielenie patentu stwierdza się przez wydanie dokumentu patentowego
+
+Urząd Patentowy wydaje postanowienie o odmowie przyznania uprzedniego pierwszeństwa w całości lub w części, jeżeli stwierdzi, że:	zgłaszający nie jest uprawniony do korzystania z uprzedniego pierwszeństwa,
+zgłoszenie dokonane za granicą, na którym zgłaszający opiera swoje zastrzeżenie uprzedniego pierwszeństwa, nie jest pierwszym zgłoszeniem,
+wystawa, na której wystawienie jest podstawą zastrzeżenia uprzedniego pierwszeństwa przez zgłaszającego, nie spełnia wymagań,
+wynalazek zgłoszony w Urzędzie Patentowym różni się od wynalazku, do którego zgłaszającemu przysługuje uprzednie pierwszeństwo,
+zgłaszający uchybił terminom dla dokonania zgłoszenia albo terminowi dla złożenia dowodu pierwszeństwa
+
+Patent	prawo wyłącznego korzystania z wynalazku w sposób zarobkowy lub zawodowy na całym obszarze Rzeczypospolitej Polskiej przez 20 lat
+
+Uprawniony z patentu może zakazać osobie trzeciej	korzystania z wynalazku dla celów zarobkowych i zawodowych. 
+Jak też używaniu, oferowaniu, wprowadzaniu do obrotu lub importowaniu dla tych celów produktów otrzymanych bezpośrednio takim sposobem.
+
+Uprawniony z patentu lub z licencji nie może nadużywać swego prawa, w szczególności przez uniemożliwianie korzystania z wynalazku przez osobę trzecią,	jeżeli jest ono konieczne do zaspokojenia potrzeb rynku krajowego. W okresie 3 lat od dnia udzielenia patentu - nie uważa się za nadużycie prawa.
+
+Nie jest naruszeniem patentu	korzystanie z wynalazku dotyczącego środków komunikacji,
+korzystanie z wynalazku dla celów państwowych w niezbędnym wymiarze,
+stosowanie wynalazku do celów badawczych i doświadczalnych, dla dokonania jego oceny, analizy albo nauczania,
+korzystanie z wynalazku, w niezbędnym zakresie, dla wykonania czynności, jakie na podstawie przepisów prawa są wymagane dla uzyskania rejestracji bądź zezwolenia, stanowiących warunek dopuszczenia do obrotu,
+wykonanie leku w aptece na podstawie indywidualnej recepty
+
+Umowa licencyjna	licencja ograniczona, licencja pełna, licencja otwarta, licencja niewyłączna, licencja wyłączna.
+Licencja podlega, na wniosek zainteresowanego, wpisowi do rejestru patentowego. Licencja wyłączna - może dochodzić roszczeń z naruszenia patentu.
+
+Sublicencja	Uprawniony z licencji może udzielić dalszej licencji (sublicencja) tylko za zgodą uprawnionego z patentu.
+
+Licencja przymusowa może zostać udzielona gdy:	jest to konieczne do zapobieżenia lub usunięcia stanu zagrożenia bezpieczeństwa Państwa,
+zostanie stwierdzone, że patent jest nadużywany,
+zostanie stwierdzone, że uprawniony z patentu udzielonego z wcześniejszym pierwszeństwem (patentu wcześniejszego) uniemożliwia, nie godząc się na zawarcie umowy licencyjnej, zaspokojenie potrzeb rynku krajowego przez stosowanie opatentowanego wynalazku (patent zależny), z którego korzystanie wkraczałoby w zakres patentu wcześniejszego
+
+Warunek konieczny dla licencji przymusowej:	Jeżeli ubiegający się o nią wykaże, że czynił wcześniej, w dobrej wierze, starania w celu uzyskania licencji. Spełnienie tego warunku nie jest konieczne do udzielenia licencji przymusowej w celu zapobieżenia lub usunięcia stanu zagrożenia bezpieczeństwa Państwa.
+
+Patent wygasa na skutek	upływu okresu, na który został udzielony,
+zrzeczenia się patentu przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą prawa na patencie, 
+nieuiszczenia w przewidzianym terminie opłaty okresowej,
+trwałej utraty możliwości korzystania z wynalazku z powodu braku potrzebnego do tego materiału biologicznego
+
+Klasyfikacja MKP	Działy A-H
+
+Cooperative Patent Classification CPC	A-Y
+
+Procedury ochrony wynalazków	krajowe, regionalne, międzynarodowe
+
+Znak towarowy	każde oznaczenie, które można przedstawić w sposób graficzny, jeżeli oznaczenie takie nadaje się do odróżnienia towarów przedsiębiorstwa
+
+Nie udziela się prawa ochronnego na oznaczenie, które	stanowi kształt towaru, który jest uwarunkowany wyłącznie jego naturą, jest niezbędny do uzyskania efektu technicznego lub zwiększa znacznie wartość towaru,
+zawiera urzędowo uznane oznaczenie przyjęte do stosowania w obrocie, w szczególności znak bezpieczeństwa, znak jakości lub cechę legalizacji, w zakresie, w jakim mogłoby to wprowadzić odbiorców w błąd, chyba że zgłaszający wykaże się uprawnieniem do jego użycia,
+ze swojej istoty może wprowadzać odbiorców w błąd, w szczególności co do charakteru, jakości lub pochodzenia geograficznego towaru,
+stanowi chronioną nazwę odmiany roślin,
+
+Elementy geograficzne	Nie udziela się prawa ochronnego na znak towarowy zawierający element geograficzny prawdziwy w sensie dosłownym co do terytorium, regionu lub miejsca, z którego towar pochodzi, który mógłby wprowadzić odbiorców w błąd, że towar pochodzi z innego, słynącego z danych wyrobów terenu.
+Nie udziela się prawa ochronnego na znak towarowy dla towarów identycznych lub podobnych, jeżeli znak ten jest identyczny lub podobny do zarejestrowanego oznaczenia geograficznego, nazwy pochodzenia, określenia tradycyjnego dla wina lub oznaczenia geograficznego napoju spirytusowego, których ochrona jest przewidziana na podstawie przepisów prawa.
+
+Nie udziela się prawa ochronnego na znak	• identyczny ze znakiem towarowym, na który udzielono prawa ochronnego z wcześniejszym pierwszeństwem na rzecz innej osoby dla identycznych towarów
+• identyczny lub podobny do znaku towarowego, na który udzielono prawa ochronnego z wcześniejszym pierwszeństwem na rzecz innej osoby dla towarów identycznych lub podobnych, jeżeli zachodzi ryzyko wprowadzenia odbiorców w błąd
+• jw. jeżeli używanie zgłoszonego znaku bez uzasadnionej przyczyny mogłoby przynieść zgłaszającemu nienależną korzyść lub być szkodliwe dla znaku wcześniejszego
+
+Wspólny znak towarowy	Organizacja posiadająca osobowość prawną, powołana do reprezentowania interesów przedsiębiorców, może uzyskać prawo ochronne na znak towarowy przeznaczony do używania w obrocie przez tę organizację i zrzeszone w niej podmioty
+
+Wspólny znak towarowy gwarancyjny	Organizacji posiadającej osobowość prawną, która sama nie używa znaku towarowego, może być udzielone prawo ochronne na znak przeznaczony do używania przez przedsiębiorców stosujących się do zasad ustalonych w regulaminie znaku przyjętym przez organizację
+
+Prawa ochronne na znaki towarowe	• (R)
+• Czas trwania - 10 lat
+• Prawo ochronne na znak towarowy może zostać, na wniosek uprawnionego, przedłużone w drodze decyzji
+• Wniosek składa się przed końcem upływającego okresu ochrony, jednak nie wcześniej niż na rok przed jego upływem
+• Wniosek może zostać złożony, za dodatkową opłatą, również w ciągu sześciu miesięcy po upływie okresu ochrony
+
+Uprawniony z prawa ochronnego na znak towarowy nie może zakazać posługiwania się przez inną osobę nazwą, pod którą prowadzi ona działalność gospodarczą, jeżeli	nazwa ta nie jest używana w charakterze oznaczenia towarów będących przedmiotem tej działalności i nie zachodzi możliwość wprowadzenia odbiorców w błąd co do pochodzenia towarów, w szczególności ze względu na różny profil działalności lub lokalny zasięg.
+
+Oznaczeniami geograficznymi są	• nazwy regionalne jako oznaczenia służące do wyróżniania towarów, które a) pochodzą z określonego terenu oraz b) posiadają szczególne właściwości, które wyłącznie lub w przeważającej mierze zawdzięczają oddziaływaniu środowiska 
+• oznaczenia pochodzenia jako oznaczenia służące do wyróżniania takich towarów
+• oznaczenia stosowane dla towarów, które są wytworzone z surowców lub półproduktów pochodzących z określonego terenu, większego niż teren wytworzenia lub przetworzenia towaru, jeżeli są one przygotowywane w szczególnych warunkach
+
+Ochrona oznaczenia geograficznego	Bezterminowa i trwa od dnia dokonania wpisu do rejestru oznaczeń geograficznych, prowadzonego przez Urząd Patentowy. Po wpisie maks. rok użycia.
+
+Wzór przemysłowy	nowa i posiadająca indywidualny charakter postać wytworu lub jego części, nadana mu w szczególności przez cechy linii, konturów, kształtów, kolorystykę, fakturę lub materiał wytworu oraz przez jego ornamentację
+
+Wytworem jest	każdy przedmiot wytworzony w sposób przemysłowy lub rzemieślniczy, z wyłączeniem programów komputerowych
+
+Prawo z rejestracji wzoru przemysłowego nie obejmuje cech wytworu	1) wynikających wyłącznie z jego funkcji technicznej;
+2) które muszą być odtworzone w dokładnej formie i wymiarach w celu umożliwienia mechanicznego połączenia go lub współdziałania z innym wytworem
+
+Zgłoszenie wzoru przemysłowego	podanie
+część wyglądająca zewnętrznie na ilustrację wzoru przemysłowego i opis wyjaśniający tę ilustrację
+
+Uprawniony z rejestracji wzoru przemysłowego nie może zakazać osobie trzeciej korzystania z wzoru	• do użytku osobistego lub niezwiązanego z działalnością gospodarczą
+• w celu doświadczalnym
+• polegającego na jego odtworzeniu do celów cytowania lub nauczania, jeżeli nie narusza dobrych obyczajów i nie utrudnia uprawnionemu w sposób nieuzasadniony korzystania z wzoru
+• stosowanego lub zawartego w urządzeniach znajdujących się na środkach transportu lądowego, morskiego, powietrznego
+• przez import części zamiennych i akcesoriów, w których wzór jest stosowany lub zawarty w celu napraw statków
+• przez wykonanie na indywidualne zamówienie naprawy związanej z odtworzeniem części składowej wytworu złożonego
+
+Rozwiązanie użyteczne	pozwala ono na osiągnięcie celu mającego praktyczne znaczenie przy wytwarzaniu lub korzystaniu z wyrobów
+
+Przedmiotem prawa autorskiego jest utwór	• ustalony w jakiejkolwiek postaci
+• będący przejawem działalności twórczej człowieka o indywidualnym charakterze
+
+Ustalenie	Przybranie przez utwór jakiejkolwiek postaci, chociażby nietrwałej, jednakże na tyle stabilnej, by cechy i treść utworu mogły wywierać efekt artystyczny. Stworzenie możliwości zapoznania się z utworem choćby jednemu odbiorcy poza jego twórcą.
+
+Utwory chronione prawem autorskim	• wyrażone słowem, symbolami matematycznymi lub znakami graficznymi, w tym: utwory literackie, publicystyczne, naukowe, kartograficzne oraz programy komputerowe
+• plastyczne
+• fotograficzne
+• lutnicze
+• wzornictwa przemysłowego
+• architektoniczne, architektoniczno-urbanistyczne i urbanistyczne
+• muzyczne i słowno-muzyczne
+• sceniczne, sceniczno-muzyczne, choreograficzne i pantomimiczne
+• audiowizualne w tym wizualne i audialne
+
+prawo wykonywania praw zależnych	umowa, w której określa się rodzaj opracowania, zakres dozwolonych zmian, pola eksploatacji opracowania, zasięg terytorialny i skalę eksploatacji, zastrzeżenie prawa akceptacji ostatecznego efektu opracowania.
+Nabycie od autora całości autorskich praw majątkowych NIE pozwala wydawcom tym samym na wykonywanie autorskich praw zależnych bez dodatkowego zastrzeżenia!
+
+zbiór utworów	Jeżeli zbiór utworów wykazuje cechy twórcze pod względem doboru, układu czy zestawienia, wówczas zbiór taki może być przedmiotem prawa autorskiego.
+Ostateczny kształt dzieła zależy zwykle od wydawcy a nie od autorów. PA całości dzieła ustawodawca przypisał osobie prawnej - wydawcy.
+
+Nie korzystają z ochrony prawem autorskim	• akty normatywne lub ich urzędowe projekty,
+• urzędowe dokumenty, materiały, znaki i symbole,
+• opublikowane opisy patentowe lub ochronne,
+• proste informacje prasowe
+• procesy twórcze jako takie i technika tworzenia utworu
+• metody pracy,
+• idee i pomysły, chyba że są wyrażone oryginalną formą,
+• pomysły i tematy badawcze oraz teorie i fakty naukowe,
+• znane powszechnie od dawna formy plastyczne, przestrzenne lub muzyczne.
+
+Przyjęcie utworu przez pracodawcę	Od chwili przyjęcia utworu pracodawca w ciągu sześciu miesięcy powinien poinformować pracownika o tym czy dzieło zostało przyjęte, przyjęte pod warunkiem wprowadzenia zmian lub też nieprzyjęte.
+Gdy dzieło pracownika miało zostać rozpowszechnione, a nie stało się tak w ciągu dwóch lat, majątkowe prawa autorskie wracają do twórcy - pracownika.
+
+Twórca	osoba, której nazwisko uwidoczniono w tym charakterze na egzemplarzach utworu lub której autorstwo podano do publicznej wiadomości w jakikolwiek inny sposób w związku z rozpowszechnieniem utworu
+
+autorskie prawa osobiste (cechy)	• przysługują w zasadzie twórcy utworu,
+• powstają z chwilą ustalenia utworu,
+• nie można ich się zrzec,
+• nie podlegają dziedziczeniu,
+• nie są ograniczone w czasie,
+• nie wygasają po śmierci twórcy
+
+pakiet autorskich praw osobistych	• prawo do autorstwa utworu,
+• prawo do oznaczania utworu swoim nazwiskiem lub pseudonimem albo udostępniania go anonimowo,
+• prawo do nienaruszalności treści i formy utworu oraz jego rzetelnego wykorzystania,
+• prawo do decydowania o pierwszym udostępnieniu utworu publiczności,
+• prawo do nadzoru nad sposobem korzystania z utworu
+• prawo do sprzeciwienia się zniszczeniu utworu plastycznego
+• prawo dostępu do utworu znajdującego się u nabywcy
+• prawo do wycofania utworu z obiegu przez twórcę
+• prawo twórcy do odstąpienia lub wypowiedzenia zawartych z nim umów
+• prawo twórcy do przeprowadzenia nadzoru autorskiego (korekty) przed rozpowszechnieniem utworu
+
+Za przywłaszczenie sobie autorstwa albo wprowadzenie w błąd co do autorstwa całości lub części cudzego utworu	kara pozbawienia wolności do lat 2, ograniczenia wolności lub grzywny
+
+Za bezprawne utrwalenie cudzego utworu w celu rozpowszechnienia, za bezprawne rozpowszechnienie, za publiczne zniekształcenie utworu	kara pozbawienia wolności do lat 2, ograniczenia wolności lub grzywny
+
+Za naruszenie cudzego PA w celu uzyskania korzyści majątkowej lub osobistej	kara pozbawienia wolności do 1 roku, ograniczenia wolności lub grzywny
+
+Karalność występków ustaje	z upływem roku czasu, gdy pokrzywdzony dowiedział się o czynie, nie później jednak niż z upływem 3 lat od jego popełnienia
+
+W sytuacji gdy autorskie prawa osobiste zostały zagrożone cudzym działaniem, twórca ma prawo żądać zaniechania takiego działania:	• Usunięcie skutków
+• Publiczne oświadczenie/przeproszenie
+• Zniszczenie bezprawnie wytworzonych egz.
+• Zadośćuczynienia za doznaną krzywdę tzw. „pokutne" (nie powinno być przyznawane w razie minimalnego stopnia winy oraz znikomości krzywdy)
+
+Autorskie prawa majątkowe	prawo do korzystania z utworu i rozporządzania nim na wszystkich polach eksploatacji oraz prawo do wynagrodzenia.
+
+Czas trwania autorskich praw majątkowych	70 lat po śmierci autora, gdy autor jest nieznany 70 lat od rozpowszechnienia utworu, gdy utwór nie został rozpowszechniony - 70 lat od daty ustalenia utworu
+
+Prawa ARTYSTÓW WYKONAWCÓW aktorów, recytatorów, dyrygentów, instrumentalistów, wokalistów, tancerzy, mimów	- 50 lat następujących po roku, w którym artystyczne wykonanie ustalono lub od roku publicznego przedstawienia
+
+Prawa PRODUCENTA fonogramu lub wideogramu, prawa ORGANIZACJI RADIOWEJ LUB TELEWIZYJNEJ do nadań swoich programów	50 lat
+
+Prawa WYDAWCY wydań krytycznych lub naukowych, nie będącym utworami a dotyczących utworów już nie chronionych	30 lat
+
+Rozpowszechnianie korespondencji	w okresie 20 lat od śmierci adresata, wymaga zezwolenia małżonka, a w jego braku kolejno zstępnych, rodziców lub rodzeństwa
+
+Dozwolony użytek prywatny	Wykorzystanie utworu bez zgody jego autora i nieodpłatnie, wyłącznie do użytku osobistego.
+Zakres własnego użytku osobistego obejmuje korzystanie z pojedynczych egzemplarzy utworów przez krąg osób pozostających w związku osobistym, w szczególności pokrewieństwa, powinowactwa lub stosunku towarzyskiego.
+Nie dotyczy budowania według cudzego utworu architektonicznego i architektoniczno-urbanistycznego oraz korzystania z elektronicznych baz danych spełniających cechy utworu, chyba że dotyczy to własnego użytku naukowego niezwiązanego z celem zarobkowym.
+Nie dotyczy programów komputerowych.
+
+Wolno rozpowszechniać w celach informacyjnych w prasie, radiu, telewizji i internecie	1) już rozpowszechnione:
+• sprawozdania o aktualnych wydarzeniach,
+• aktualne artykuły na tematy polityczne, gospodarcze lub religijne, chyba że zostało wyraźnie zastrzeżone, że ich dalsze rozpowszechnianie jest zabronione,
+• aktualne wypowiedzi i fotografie reporterskie,
+2) krótkie wyciągi ze sprawozdań i artykułów,
+3) przeglądy publikacji i utworów rozpowszechnionych,
+4) mowy wygłoszone na publicznych zebraniach i rozprawach; (bez możliwości publikacji zbiorów mów jednej osoby),
+5) krótkie streszczenia rozpowszechnionych utworów
+
+Biblioteki, archiwa i szkoły mogą	• udostępniać nieodpłatnie, w zakresie swoich zadań statutowych, egzemplarze utworów rozpowszechnionych,
+• sporządzać pojedyncze egzemplarzy utworów rozpowszechnionych, w celu uzupełniania, zachowania lub ochrony własnych swoich zbiorów.
+• udostępniać zbiory dla celów badawczych lub poznawczych za pośrednictwem terminali znajdujących się na terenie tych jednostek
+
+Instytucje naukowe i oświatowe mogą	w celach dydaktycznych lub prowadzenia własnych badań, korzystać z rozpowszechnionych utworów w oryginale i w tłumaczeniu oraz sporządzać w tym celu egzemplarze fragmentów opublikowanego utworu
+
+Ośrodki informacji lub dokumentacji mogą sporządzać i rozpowszechniać	• własne opracowania dokumentacyjne
+• pojedyncze egzemplarze, nie większych niż jeden arkusz wydawniczy, fragmentów opublikowanych utworów (za wynagrodzeniem)
+
+Prawo cytatu	• Wolno przytaczać w utworach stanowiących samoistną całość urywki rozpowszechnionych utworów lub drobne utwory w całości, w zakresie uzasadnionym wyjaśnianiem, analizą krytyczną, nauczaniem lub prawami gatunku twórczości.
+• Wolno w celach dydaktycznych i naukowych zamieszczać rozpowszechnione drobne utwory lub fragmenty większych utworów w podręcznikach i wypisach. Twórcy przysługuje prawo do wynagrodzenia.
+• Można korzystać z utworów w granicach dozwolonego użytku pod warunkiem wymienienia imienia i nazwiska twórcy oraz źródła.
+
+Wolno nieodpłatnie wykonywać publicznie rozpowszechnione utwory podczas	• ceremonii religijnych,
+• imprez szkolnych i akademickich
+• oficjalnych uroczystości państwowych,
+z wyłączeniem imprez reklamowych, promocyjnych i wyborczych, nikt nie osiągać korzyści majątkowych
+
+Twórca utworu może żądać	• zaniechania naruszenia,
+• wydania uzyskanych korzyści albo
+• zapłacenia w podwójnej, a w przypadku, gdy naruszenie jest zawinione, potrójnej wysokości stosownego wynagrodzenia z chwili jego dochodzenia;
+• naprawienia wyrządzonej szkody, jeżeli działanie naruszającego było zawinione
+
+ZAIKS	Związek Autorów i Kompozytorów Scenicznych
